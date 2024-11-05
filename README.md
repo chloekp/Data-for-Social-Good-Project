@@ -31,7 +31,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 ## UML Diagram 
 
 
-![alt text](image.png)
+![UML Diagram](image.png)
 
 ## Description 
 
