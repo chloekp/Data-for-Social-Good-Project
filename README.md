@@ -31,7 +31,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 ## UML Diagram 
 
 
-![UML Diagram](image.png)
+![UML Diagram](https://github.com/chloekp/Data-for-Social-Good-Project/blob/main/UML%20Diagram.png?raw=true)
 
 ## Description 
 
