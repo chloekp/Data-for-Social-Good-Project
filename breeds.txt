@@ -1,0 +1,117 @@
+Labrador Retriever
+German Shepherd
+Bulldog
+Poodle
+Beagle
+Chihuahua
+Boxer
+Golden Retriever
+Pug
+Rottweiler
+Siberian Husky
+Dachshund
+Shih Tzu
+Bichon Frise
+Australian Shepherd
+Basset Hound
+Cocker Spaniel
+French Bulldog
+Pomeranian
+Great Dane
+Mastiff
+Newfoundland
+Saint Bernard
+Old English Sheepdog
+Irish Wolfhound
+Greyhound
+Scottish Deerhound
+Great Pyrenees
+Shar Pei
+Doberman Pinscher
+Weimaraner
+Belgian Malinois
+Rhodesian Ridgeback
+English Setter
+Pointer
+Gordon Setter
+Irish Setter
+Papillon
+Pekingese
+Toy Poodle
+Miniature Poodle
+Standard Poodle
+Affenpinscher
+Boston Terrier
+Brussels Griffon
+Cairn Terrier
+Chinese Crested
+Miniature Schnauzer
+Standard Schnauzer
+West Highland White Terrier
+Australian Terrier
+Border Terrier
+Coton de Tulear
+English Toy Spaniel
+Australian Stumpy Tail Cattle Dog
+Pug
+American Eskimo Dog
+Australian Cattle Dog
+Basset Hound
+Australian Kelpie
+Bloodhound
+Border Collie
+Australian Shepherd
+American Bulldog
+Australian Shepherd
+Borzoi
+Bull Terrier
+Cane Corso
+Cardigan Welsh Corgi
+Chesapeake Bay Retriever
+Saluki
+English Setter
+English Springer Spaniel
+Field Spaniel
+Finnish Spitz
+Flat-Coated Retriever
+Australian Terrier
+Giant Schnauzer
+Golden Retriever
+Gordon Setter
+Australian Cattle Dog
+Greyhound
+Harrier
+Irish Setter
+Irish Terrier
+Irish Water Spaniel
+Irish Wolfhound
+Italian Greyhound
+Jack Russell Terrier
+Japanese Chin
+Keeshond
+Kerry Blue Terrier
+Kuvasz
+Lhasa Apso
+Maltese
+Miniature Pinscher
+Samoyed
+Shetland Sheepdog
+Staffordshire Bull Terrier
+Vizsla
+Anatolian Shepherd
+Welsh Corgi
+Welsh Springer Spaniel
+Welsh Terrier
+West Highland White Terrier
+Whippet
+Wirehaired Pointing Griffon
+Xoloitzcuintli
+Yorkshire Terrier
+Akita
+Africanis
+Basenji
+Catahoula Leopard Dog
+Cocker Spaniel
+Miniature Shiba Inu
+Belgian Tervuren
+Pharaoh Hound
